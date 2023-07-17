@@ -21,9 +21,9 @@ One of my favourite sites I have made. Using various tools, you can zoom into di
 
 ## Tabletop Assistant
 
-__In Development -
+__In Deelopment -
 [Website](https://tabletop.quantumwss.com) -
-Private__
+[Repository](https://github.com/QuantumWarp/tabletop-assistant)__
 &nbsp;&nbsp;
 <img height=20 alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -46,7 +46,7 @@ A very recent project I started, inspired by a friend starting to learn a bit ab
 
 ## Card Game
 
-__Paused -
+__In Development -
 Private__
   &nbsp;&nbsp;
 <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
