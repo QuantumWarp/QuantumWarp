@@ -21,7 +21,7 @@ One of my favourite sites I have made. Using various tools, you can zoom into di
 
 ## Tabletop Assistant
 
-__In Deelopment -
+__In Development -
 [Website](https://tabletop.quantumwss.com) -
 [Repository](https://github.com/QuantumWarp/tabletop-assistant)__
 &nbsp;&nbsp;
