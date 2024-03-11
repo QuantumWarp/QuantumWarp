@@ -5,14 +5,14 @@
 
 # Welcome to my GitHub 👋
 
-Please take a look at some of the projects I've worked on! My personal favourites are the top 2 listed, but there are many more below, spanning many years and many languages. I've always got a few things on the go, and have a number of finished projects that are live that I am hosting. If you have any questions about anything, please feel free to drop me an email and I would be more than happy to reply!
+Please take a look at some of the projects I've worked on! My personal favourites are the top 2 listed, but there are many more below, spanning many years and many languages. I've often got a few things on the go, and have a number of finished projects that are live. If you have any questions about anything, please feel free to drop me an message and I would be more than happy to reply!
 
 <br>
 
 ## Fractal Viewer
 
 __Completed -
-[Website](https://fractal.quantumwss.com) -
+[Website](https://quantumwarp.github.io/fractal-viewer/) -
 [Repository](https://github.com/QuantumWarp/fractal-viewer)__
 &nbsp;&nbsp;
 <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -21,8 +21,8 @@ One of my favourite sites I have made. Using various tools, you can zoom into di
 
 ## Tabletop Assistant
 
-__In Development -
-[Website](https://tabletop.quantumwss.com) -
+__Paused -
+[Website](https://quantumwarp.github.io/tabletop-assistant/) -
 [Repository](https://github.com/QuantumWarp/tabletop-assistant)__
 &nbsp;&nbsp;
 <img height=20 alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -30,19 +30,19 @@ __In Development -
 <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-A online tool that can be used to replace paper for any Tabletop RPG. The current live version has all the basics I needed to start using it myself. This is one of the projects I want to keep going with to make it suitable and appealing to a wider audience. Currently adding dynamically changing values, Microsoft Sign In and a simple way to import configurations from templates.
+A online tool that can be used to replace paper for any Tabletop RPG. The current live version has all the basics I needed to start using it myself. I made a lot of progress with a backend server, authenticating with Google OAuth 2.0 but I have decided to keep the live version simple without the backend for now.
 
 ## Text Adventure
 
-__In Development -
-[Website](https://text.quantumwss.com) -
+__Paused -
+[Website](https://quantumwarp.github.io/text-adventure/) -
 [Repository](https://github.com/QuantumWarp/text-adventure)__
 &nbsp;&nbsp;
 <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-A very recent project I started, inspired by a friend starting to learn a bit about software development. I found that it seemed like a fun project that would actually be limited in scope for once. However there has still been a lot of interesting problems with both the project structure and with programmatically using the terminal in VS Code and with xterm.js in the browser.
+A recent project I started, inspired by a friend starting to learn a bit about software development. I found that it seemed like a fun project that would actually be limited in scope for once. However there has still been a lot of interesting problems with both the project structure and with programmatically using the terminal in VS Code and with xterm.js in the browser.
 
 ## Card Game
 
@@ -52,7 +52,7 @@ Private__
 <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
-This project I keep returning to over the years. The core engine of the card game is made to handle potential complex interactions between cards and other events. The long term aim is to make a game easy enough to pick up, like Slay the Spire, but with a few more complex interactions and things to plan out, more akin to MTG, with a really flexible way to add varied and interesting effects. 
+This project I keep returning to over the years. The core engine of the card game is made to handle potential complex interactions between cards and other events. The long term aim is to make a game easy enough to pick up, like Slay the Spire, but with a few more complex interactions and things to plan out, more akin to MTG, with a really flexible way to add varied and interesting effects.
 
 <br>
 
@@ -63,7 +63,7 @@ This project I keep returning to over the years. The core engine of the card gam
 ## Stitch Patterns
 
 __Completed -
-[Website](https://stitch.quantumwss.com) -
+[Website](https://quantumwarp.github.io/stitch-patterns/) -
 [Repository](https://github.com/QuantumWarp/stitch-patterns)__
 &nbsp;&nbsp;
 <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
@@ -73,7 +73,7 @@ A site to create simple patterns that can be used for knitting. A somewhat bespo
 ## Portfolio
 
 __Completed -
-[Website](https://tabletop.quantumwss.com) -
+[Website](https://quantumwarp.github.io/portfolio/) -
 [Repository](https://github.com/QuantumWarp/portfolio)__
 &nbsp;&nbsp;
 <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
